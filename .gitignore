@@ -100,3 +100,5 @@ ENV/
 # mypy
 .mypy_cache/
 gym_frozenlake/qlearning/FrozenLake-records
+gym_frozenlake/qlearning_nn/FrozenLake-record
+gym_frozenlake/qlearning/FrozenLake-record
