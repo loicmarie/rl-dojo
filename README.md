@@ -1,5 +1,5 @@
-# RL Dojo
-Reinforcement Learning dojo centralize a wide variety of AI games personal projects.
+# Reinforcement Learning Dojo
+Reinforcement Learning dojo centralizes a wide variety of AI games personal projects.
 
 * **Gym FrozenLake**
   * [Q-Learning using Q-Table](gym_frozenlake/qlearning/FrozenLake_QLearning.ipynb) (score: 0.89 ± 0.03)
