@@ -104,3 +104,4 @@ gym_frozenlake/qlearning_nn/FrozenLake-record
 gym_frozenlake/qlearning/FrozenLake-record
 2048_game
 gym_cartpole_v0/dqn/CartPole-record/
+gym_cartpole_v1/dqn/CartPole-record/
